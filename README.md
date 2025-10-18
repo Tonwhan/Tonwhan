@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm tonwhan
+# Hi there, I'm tonwhan
 
-> 🚀 A curious beginner exploring the world of code
+> ⭐ A curious beginner exploring the world of code
 
 I'm just starting my journey as a developer — learning, building, and breaking things (a lot 😅).  
-Right now, I’m focused on **learning Flutter**, **Git**, and getting comfortable with the magic of open source.
+Right now, I’m focused on **learning Flutter**, **Git**, **HTML**,**CSS** and **JavaScript**
 
 ---
 
