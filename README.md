@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8c8e09cc-9e64-41d5-aa19-7419fcb02e4c" /># 👋 Hi there, I'm Tonwhan
+# 👋 Hi there, I'm tonwhan
 
 > 🚀 A curious beginner exploring the world of code
 
