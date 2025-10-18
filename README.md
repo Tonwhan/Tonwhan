@@ -1,4 +1,4 @@
-# Hi there, I'm tonwhan
+# Yo! I'm tonwhan
 
 > ⭐ A curious beginner exploring the world of code
 
