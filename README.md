@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8c8e09cc-9e64-41d5-aa19-7419fcb02e4c" /># 👋 Hi there, I'm Tonwhan
 
-<!--
-**Tonwhan/Tonwhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 A curious beginner exploring the world of code
 
-Here are some ideas to get you started:
+I'm just starting my journey as a developer — learning, building, and breaking things (a lot 😅).  
+Right now, I’m focused on **learning Flutter**, **Git**, and getting comfortable with the magic of open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I’m Learning
+- 🌐  HTML / CSS / JavaScript
+- 🧩 Flutter & Dart  
+- 🐙 Git & GitHub  
+- ⚙️ Basic UI/UX
+- 
+---
+
+### 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/Tonwhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
