@@ -8,8 +8,7 @@ Right now, I’m focused on **learning Flutter**, **Git**, **HTML**,**CSS** and 
 ---
 
 ### What I’m Learning
-- 🌐  HTML / CSS / JavaScript
-- 🧩 Flutter & Dart  
+- 🌐  HTML / CSS / JavaScript / React
 - 🐙 Git & GitHub  
 - ⚙️ UI/UX
 ---
