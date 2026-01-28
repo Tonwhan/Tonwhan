@@ -1,16 +1,31 @@
-# Yo! I'm tonwhan_Bebhop
+# I'm tonwhan_Bebhop
 
-> ⭐ A curious beginner exploring the world of code
-
-I'm just starting my journey as a developer — learning, building, and breaking things (a lot 😅).  
-Right now, I’m focused on **learning Flutter**, **Git**, **HTML**,**CSS** and **JavaScript**
+> ⭐ I want to be Product Engineer
+I’m learning to build products that are useful, usable, and meaningful.
 
 ---
 
+## My Product Mindset
+I don’t just want to code features.  
+I want to understand:
+- Who is this for?
+- What problem does it solve?
+- Why would someone use it?
+
+Because great products are built with empathy, clarity, and purpose — not just code.
+
+---
+
+### What I'm Building
+- Flutter apps to practice real-world UI & state management  
+- Developer profile / portfolio projects  
+- Small tools that solve daily problems
+
 ### What I’m Learning
-- 🌐  HTML / CSS / JavaScript / React / ReactNative and more!
+- 🌐  HTML / CSS / JavaScript / React / Next.js and more!
 - 🐙 Git & GitHub  
 - ⚙️ UI/UX
+
 ---
 
 ### My Social
