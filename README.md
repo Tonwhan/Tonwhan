@@ -14,18 +14,6 @@ Because great products are built with empathy, clarity, and purpose — not just
 
 ---
 
-### What I'm Building
-- Flutter apps to practice real-world UI & state management  
-- Developer profile / portfolio projects  
-- Small tools that solve daily problems
-
-### What I’m Learning
-- 🌐  HTML / CSS / JavaScript / React / Next.js and more!
-- 🐙 Git & GitHub  
-- ⚙️ UI/UX
-
----
-
 ### My Social
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://youtube.com/@tonwhan_bebhop?si=4drvD7u5LrJxML0I)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](instagram.com/tonwhan_hatemarkzuckerberk)
