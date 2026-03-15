@@ -19,5 +19,3 @@ Because great products are built with empathy, clarity, and purpose — not just
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](instagram.com/tonwhan_hatemarkzuckerberk)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tonwhan_bebhop?is_from_webapp=1&sender_device=pc)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/Tonwhan)
-
----
