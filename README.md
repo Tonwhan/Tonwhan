@@ -1,8 +1,3 @@
-# I'm tonwhan_Bebhop
-
-> ⭐ I want to be Product Engineer
-I’m learning to build products that are useful, usable, and meaningful.
-
 ## My Product Mindset
 I don’t just want to code features.  
 I want to understand:
