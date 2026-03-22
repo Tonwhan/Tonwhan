@@ -1,4 +1,4 @@
-# Hi, I'm Tonwhan
+# I'm Tonwhan
 
 ## Product Mindset
 I don’t just build features — I build with intention.
