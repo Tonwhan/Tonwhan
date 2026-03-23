@@ -28,6 +28,7 @@ Because great products are built with **empathy, clarity, and purpose** — not 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0054FF?style=for-the-badge&logo=swift&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 
 ### Tools
