@@ -34,7 +34,7 @@ Because great products are built with **empathy, clarity, and purpose** — not 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B6B?style=for-the-badge&logo=&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-CodeRabbit-FF6B6B?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
