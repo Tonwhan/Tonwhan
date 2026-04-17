@@ -40,6 +40,7 @@ Because great products are built with **empathy, clarity, and purpose** — not 
 ---
 
 ## My social media
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tonwhan_bebhop)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tonwhan_bebhop?si=4drvD7u5LrJxML0I)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tonwhan_hatemarkzuckerberk)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tonwhan_bebhop)
+
