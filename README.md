@@ -17,7 +17,6 @@ Because great products are built with **empathy, clarity, and purpose** — not 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-Familiar-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Frameworks, Libraries & Backend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -27,7 +26,6 @@ Because great products are built with **empathy, clarity, and purpose** — not 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-Familiar-0054FF?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ### Tools
